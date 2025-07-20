@@ -52,12 +52,12 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav7re&show_icons=true&locale=en&layout=compact" alt="raghav7re" />
-</p>
+> 📌 Note: Most of my daily contributions are to private repositories, so public stats don't fully reflect my activity.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghav7re&show_icons=true&locale=en" alt="raghav7re" /></p>
+# ![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav7re&show_icons=true&theme=tokyonight&hide_border=true)
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav7re&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=BlockChain-Based-Voting-System)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=raghav7re&&hide_current_streak=true)](https://git.io/streak-stats)
 ---
 
 🧠 _Always learning. Always building. Always committing._
